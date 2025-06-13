@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Improving my React skills through personal projects, as well as working on the front-end part of a clients project<br>👯 Open-source projects involving React or JavaScript<br>🤝 Writing clean, maintainable front-end code<br>🌱 I’m currently learning React<br>💬 How I approach learning new tech<br>⚡ I’m highly adaptable to my current surroundings — whether it’s tech, tools, or teams, I’m quick to adjust and always eager to improve.
+🔭 I’m currently working on improving my React skills through personal projects<br>👯 I’m looking to collaborate on open-source projects involving React or JavaScript<br>🤝 I’m looking for help with writing clean, maintainable front-end code<br>🌱 I’m currently learning React<br>💬 Ask me about how I approach learning new tech<br>⚡ Fun fact: I’m highly adaptable to my current surroundings — whether it’s tech, tools, or teams, I’m quick to adjust and always eager to improve.
 
 
 ## 🌐 Socials:
