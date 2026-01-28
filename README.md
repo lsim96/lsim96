@@ -1,5 +1,6 @@
 #  About Me:
 Hi there, I'm Leonid Simonoski 👋
+
 🚀 About Me
 
 - 🔭 Currently working on improving my React skills through personal projects
