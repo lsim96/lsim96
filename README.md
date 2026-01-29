@@ -1,13 +1,13 @@
 #  About Me:
 Hi there, I'm Leonid Simonoski 👋
 
-🚀 About Me
+ About Me
 
-- 🔭 Currently working on improving my React skills through personal projects
-- 👯 Looking to collaborate on open-source projects involving React or JavaScript
-- 🤝 Seeking help with writing clean, maintainable front-end code
-- 🌱 Currently learning Next.js
-- ⚡ Fun fact: I'm highly adaptable to my current surroundings — whether it's tech, tools, or teams, I'm quick to adjust and always eager to improve
+-  Currently working on improving my React skills through personal projects
+-  Looking to collaborate on open-source projects involving React or JavaScript
+-  Seeking help with writing clean, maintainable front-end code
+-  Currently learning Next.js
+-  Fun fact: I'm highly adaptable to my current surroundings — whether it's tech, tools, or teams, I'm quick to adjust and always eager to improve
 
 
 ##  Socials:
