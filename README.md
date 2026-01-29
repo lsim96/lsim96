@@ -1,5 +1,5 @@
 #  About Me:
-Hi there, I'm Leonid Simonoski 👋
+Hi there, I'm Leonid Simonoski 
 
  About Me
 
